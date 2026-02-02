@@ -1,0 +1,10 @@
+Coding Standards - Engineering Team
+
+1. All async methods must use the "Async" suffix.
+2. File names should match class names exactly.
+3. Use dependency injection instead of static service access.
+4. Avoid business logic inside controllers or endpoints; use the application layer.
+5. Always include XML documentation on public methods for shared libraries.
+6. Use "var" only when the type is obvious.
+7. Use meaningful, descriptive names for variables and methods.
+``

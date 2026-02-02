@@ -1,0 +1,7 @@
+HR Policies - Summary
+
+1. Employees may take 24 paid leaves annually.
+2. Work from home is allowed 3 days per week for engineering teams.
+3. Official working hours: 9 AM to 6 PM (flexible by ±1 hour).
+4. All overtime must be pre-approved by team leads.
+5. New employees serve a probation period of 3 months.
